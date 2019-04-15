@@ -29,6 +29,7 @@ nav a:hover{
 }
 /*End Navigation Styles*/
 .column {
+	color:white;
   margin-top: 50px;
   margin-bottom:150px;
   float: left;
@@ -42,48 +43,47 @@ nav a:hover{
   display: table;
 }
 #para{
-	margin-right:100px 
-
+	text-align:center;
+	margin-right:500px;
+	margin-left:500px;
 }
 #anime{
+	color:white;
+	text-align:center;
 	margin-top: 50px;
 	margin-bottom: 50px;
 
 }
 #manga{
+	color:white;
+	text-align:center;
+	margin-left:500px;
+	margin-right:500px;
 	margin-top:50px;
 	margin-bottom:50px;
 }
 #yusuke{
 	color:white;
 	text-align:center;
-	margin-left:300px;
-	margin-right:300px;
 	margin-bottom:50px;
 	margin-top:50px;
 }
 #kuwabara{
 	color:white;
 	text-align:center;
-	margin-left:300px;
-	margin-right:300px;
 	margin-bottom:50px;
 	margin-top:50px;
 }
 #hiei{
 	color:white;
 	text-align:center;
-	margin-left:300px;
-	margin-right:300px;
 	margin-bottom:50px;
 	margin-top:50px;
 }
 #kurama{
 	color:white;
 	text-align:center;
-	margin-left:300px;
-	margin-right:300px;
-margin-bottom:50px;
+	margin-bottom:50px;
 	margin-top:50px;
 	}
 #dt{
